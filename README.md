@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pharoh-Ramses
 - 👀 I’m interested in lower level development
-- 🌱 I’m currently writing my own compositor
+- 🌱 I’m currently writing my own interpreter
 - 💞️ I’m looking to collaborate on projects that train LLMs
 - 📫 How to reach me ramses.angles@hey.com
 
